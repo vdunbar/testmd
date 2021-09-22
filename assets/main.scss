@@ -14,17 +14,21 @@
 }
 
 .arc {
-  border: solid 2px red;
+  background-color: #002145;
 }
 
 .library {
-  border: solid 2px blue;
+  background-color: #97D4E9;
 }
 
 .ors {
-  border: solid 2px green;
+  background-color: #6EC4E8;
 }
 
 .it {
-  border: solid 2px black;
+  background-color: #40B4E5;
+}
+
+a.link, a.hover, a.visited, a.active {
+  color: #fff;
 }
