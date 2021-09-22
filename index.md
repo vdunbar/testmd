@@ -1,3 +1,9 @@
+---
+permalink: /
+title: DRI Report
+list_title: Index
+---
+
 # DRI Report
 
 ## Executive Summary
