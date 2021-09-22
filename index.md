@@ -14,7 +14,9 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
   ARC
 </div> </a>
 
-<a href=""> <div class="reportButton library">Library</div> </a>
+<div class="reportButton library">
+  <a href="">Library</a>
+</div>
 
 <a href="">  
 <div class="reportButton ors">
