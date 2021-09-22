@@ -3,10 +3,28 @@
 
 @import "minima";
 
-.ARC {
+.reportButton {
   height: 100px;
-  width: 100px;
-  border: solid 1px red;
+  width: 30%;
+  margin: 10%;
+  padding: 10%;
+  float: left;  
+}
+
+.arc {
+  border: solid 2px red;
+}
+
+.library {
+  border: solid 2px blue;
+}
+
+.ors {
+  border: solid 2px green;
+}
+
+.it {
+  border: solid 2px black;
 }
 
 h1 {
