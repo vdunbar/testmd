@@ -1,1 +1,5 @@
-# Advanced Research Computing Report
+---
+title: ARC
+---
+
+## Advanced Research Computing Report
