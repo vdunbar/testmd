@@ -1,7 +1,6 @@
 ---
 permalink: /
-title: DRI Report
-list_title: Index
+title: Digital Research Infrastructure Report
 ---
 
 ## Executive Summary
