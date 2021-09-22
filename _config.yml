@@ -1,5 +1,5 @@
 theme: minima
-header_pages:
-  - about.md
-  - portfolio.md
 title: Report
+header_pages:
+  - ARC.md
+  - library.md
