@@ -28,11 +28,7 @@
   background-color: #40B4E5;
 }
 
-a {
+.reportButton a, .reportButton a.link, .reportButton a.visited, .reportButton a.hover, .reportButton a.active {
+  color: #fff;
   text-decoration: none;
-  color: #fff;
-}
-
-.reportButton a.link, .reportButton a.visited, .reportButton a.hover, .reportButton a.active {
-  color: #fff;
 }
