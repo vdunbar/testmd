@@ -3,3 +3,31 @@
 
 @import "minima/skins/{{ site.minima.skin | default: 'classic' }}";
 @import "minima/initialize";
+
+.reportButton {
+  height: 80px;
+  width: 10%;
+  margin: 2%;
+  padding: 2%;
+  float: left;  
+}
+
+.arc {
+  border: solid 2px red;
+}
+
+.library {
+  border: solid 2px blue;
+}
+
+.ors {
+  border: solid 2px green;
+}
+
+.it {
+  border: solid 2px black;
+}
+
+h1 {
+  color: blue;
+}
