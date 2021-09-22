@@ -10,22 +10,18 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 ## Reports
 
-<a href=""><div class="reportButton arc">
-  ARC
-</div> </a>
+<div class="reportButton arc">
+  <a href="">ARC</a>
+</div>
 
 <div class="reportButton library">
   <a href="">Library</a>
 </div>
-
-<a href="">  
+ 
 <div class="reportButton ors">
-  ORS
+  <a href="">ORS</a>
 </div>
-</a>
 
-<a href="">  
 <div class="reportButton it">
-  IT
+  <a href="">IT</a>
 </div>
-</a>
