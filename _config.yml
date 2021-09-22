@@ -1,5 +1,8 @@
 theme: minima
 title: Report
+
+base_url: /testmd
+
 header_pages:
   - ARC.md
   - library.md
