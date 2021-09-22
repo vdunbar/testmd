@@ -4,5 +4,5 @@ title: Report
 base_url: /testmd
 
 header_pages:
-  - ARC.md
-  - Library.md
+  - arc.md
+  - library.md
